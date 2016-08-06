@@ -1,0 +1,8 @@
+我的目标，系统的掌握spark 、Scala，用他们做数据处理、数据挖掘、数据清洗、机器学习。
+1、hadoop掌握。
+2、spark,spark streamning、sparkSql sparkML sparkgraph.
+3、kafka
+4、hive
+5、Java网络编程，NIO,多线程，集合类的源码。
+6、yarn、messos.
+
